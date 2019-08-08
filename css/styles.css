@@ -1,0 +1,36 @@
+.SlidingPuzzleFigure {
+	padding: 25px;
+}
+
+.SlidingPuzzle {
+	display: flex;
+	width: 221px;
+	border: 5px solid black;
+	border-radius: 5px;
+	padding: 5px;
+	margin: 10px;
+	background-color: black;
+	flex-flow: row wrap;
+	position: relative;
+	list-style: none
+
+}
+
+.Tile {
+	width: 67px;
+	height: 67px;
+	border: 6px;
+	border-style: outset;
+	border-color: #CCCCCC;
+	background-color: white;
+	padding: 6px 0;
+	text-align: center;
+	font-size: 3rem;
+
+}
+
+figcaption {
+    font-size: 2rem;
+    font-style: italic;
+    padding: 0 35px;
+}
