@@ -95,13 +95,13 @@ $(function() {
     grid.find((o, i) => {
       if (o.row === clicked.row && o.column === clicked.column) {
         grid[i].value = empty.value;
-        console.log(grid[i]);
+        // console.log(grid[i]);
       }
     });
     grid.find((o, i) => {
       if (o.row === empty.row && o.column === empty.column) {
         grid[i].value = swapValue;
-        console.log(grid[i]);
+        // console.log(grid[i]);
       }
     });
   }
