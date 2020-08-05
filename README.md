@@ -1,6 +1,6 @@
 # simple-slider-puzzle
 
-![GitHub last commit](https://img.shields.io/github/last-commit/lastres0rt/simple-spotify-search.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/lastres0rt/simple-slider-puzzle.svg)
 
 *****
 
